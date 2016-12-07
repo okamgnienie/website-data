@@ -1,0 +1,175 @@
+{
+  "visuals": [
+    {
+      "id": 0,
+      "title": "Last look back at my room, just before leaving home for CERN",
+      "image": "images/visuals/leaving_home_for_cern.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["poland", "cracow", "my-work", "cern", "image"]
+    },
+    {
+      "id": 1,
+      "title": "Instagram usernames shared in Venice",
+      "image": "images/visuals/venice_instagram.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["italy", "venice", "my-work", "social", "image"]
+    },
+    {
+      "id": 2,
+      "title": "Cathedral in Geneva",
+      "image": "images/visuals/geneva_cathedral.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["switzerland", "geneva", "my-work", "urban", "architecture", "image"]
+    },
+    {
+      "id": 3,
+      "title": "The hipster place in Grenoble",
+      "image": "images/visuals/grill_brasserie.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["france", "grenoble", "my-work", "urban", "image"]
+    },
+    {
+      "id": 4,
+      "title": "Human size doll hidden in the museum",
+      "image": "images/visuals/museum_doll.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["france", "annecy", "my-work", "museum", "dark"]
+    },
+    {
+      "id": 5,
+      "title": "Arts @ CERN",
+      "image": "images/visuals/arts_at_cern.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["switzerland", "meyrin", "my-work", "cern", "art", "image"]
+    },
+    {
+      "id": 6,
+      "title": "Lights on the wall",
+      "image": "images/visuals/lights_on_the_wall.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["france", "saint-genis-pouilly", "my-work", "life", "night", "image"]
+    },
+    {
+      "id": 7,
+      "title": "Life of Grenoble",
+      "image": "images/visuals/grenoble_dancing_guy.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["france", "grenoble", "my-work", "urban", "music", "image"]
+    },
+    {
+      "id": 8,
+      "title": "Forest",
+      "image": "images/visuals/bieszczady_forest.jpg",
+      "type": "image",
+      "background": "#000000",
+      "tags": ["poland", "bieszczady", "my-work", "nature", "tree", "pattern", "image"]
+    },
+    {
+      "id": 9,
+      "title": "Hexagon",
+      "type": "image",
+      "background": "#ffffff",
+      "image": "https://media.giphy.com/media/5xtDarE06fr4xurDL5m/giphy.gif",
+      "tags": ["image", "gif", "design"]
+    },
+    {
+      "id": 10,
+      "title": "Girl on the escalator",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/164775233?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "bukowski", "life"]
+    },
+    {
+      "id": 11,
+      "title": "Wander in Porto",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/134719869?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "travelling"]
+    },
+    {
+      "id": 12,
+      "title": "All the way",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/78472610?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "bukowski"]
+    },
+    {
+      "id": 13,
+      "title": "As luck would have it",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/97044963?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "animation"]
+    },
+    {
+      "id": 14,
+      "title": "Dame mit hund",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/176952646?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "animation"]
+    },
+    {
+      "id": 15,
+      "title": "There and Back: Colombia",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/151554087?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "travelling"]
+    },
+    {
+      "id": 16,
+      "title": "Allah-Las - Sacred Sands",
+      "type": "embedded",
+      "code": "<iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/nZ8JnVB7R_0\" frameborder=\"0\" allowfullscreen></iframe>",
+      "tags": ["video", "music", "allah-las"]
+    },
+    {
+      "id": 17,
+      "title": "Find yourself outside",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/132244795?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "travelling"]
+    },
+    {
+      "id": 18,
+      "title": "The chase",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/126725607?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "clouds", "timelapse"]
+    },
+    {
+      "id": 19,
+      "title": "Remember Those Great Volkswagen Ads?",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/177880740?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "design", "marketing"]
+    },
+    {
+      "id": 20,
+      "title": "Sonar",
+      "type": "embedded",
+      "code": "<iframe src=\"https://player.vimeo.com/video/5324878?color=09adef&byline=0&portrait=0\" width=\"960\" height=\"540\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+      "tags": ["video", "animation", "music"]
+    },
+    {
+      "id": 21,
+      "title": "The man with the beautiful eyes",
+      "type": "embedded",
+      "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JW12Ealvj0s\" frameborder=\"0\" allowfullscreen></iframe>",
+      "tags": ["video", "animation", "bukowski"]
+    },
+    {
+      "id": 22,
+      "title": "The Growlers - Mama said",
+      "type": "embedded",
+      "code": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3ubthe8RRfA\" frameborder=\"0\" allowfullscreen></iframe>",
+      "tags": ["video", "music", "growlers"]
+    }
+  ]
+}
